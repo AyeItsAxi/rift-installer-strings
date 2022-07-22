@@ -1,0 +1,2 @@
+# rift-installer-strings
+ye
